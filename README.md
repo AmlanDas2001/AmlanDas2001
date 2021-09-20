@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmlanDas2001
-- 👀 I’m interested in Wed Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA
 
 
