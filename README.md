@@ -17,9 +17,9 @@
 <br/>
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahinmallik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sahinmallik&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/sahinmallik?label=Followers&style=social"> •   
+  <img src="https://komarev.com/ghpvc/?username=AmlanDas2001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AmlanDas2001&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/AmlanDas2001?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/AmlanDas2001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinmallik&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmlanDas2001&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 
